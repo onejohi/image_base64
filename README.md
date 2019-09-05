@@ -1,0 +1,1 @@
+##Encode and Decode images to base64 and store them in notarealdb as JSON data
